@@ -79,12 +79,14 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 $ export TURTLEBOT3_MODEL=burger
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 ```
+![image](Rviz.png)
 
 ## Save Map
 
 ```
 $ rosrun map_server map_saver -f ~/map
 ```
+![image](map.png)
 
 
 
