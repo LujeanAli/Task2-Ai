@@ -62,6 +62,7 @@ $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 $ export TURTLEBOT3_MODEL=burger
 $ roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 ```
+![image](Gazebo.png)
 
 ## Run Teleoperation Node
 
@@ -69,6 +70,8 @@ $ roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 $ export TURTLEBOT3_MODEL=burger
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```
+
+![image](Teleoperation.png)
 
 ## Run Rviz
 
