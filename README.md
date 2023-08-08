@@ -1,4 +1,4 @@
-# Use Turtlebot3 with SLAM approach to create and save a map
+## Use Turtlebot3 with SLAM approach to create and save a map
 
  - SLAM (Simultaneous Localization and Mapping) is a technique to draw a map by estimating current location in an arbitrary space.
 
@@ -6,7 +6,7 @@
 
 
 
-## Install ROS melodic
+### Install ROS melodic
 
 Open the terminal and enter below commands one at a time.
 ```
